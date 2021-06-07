@@ -1,4 +1,4 @@
-### Django tutorial Project
+## Django tutorial Project
 #### _Basic Poll Application_
 Given in django official documentation - [Documentation Link] (https://docs.djangoproject.com/en/3.2/intro/tutorial01)
 ### Project Flow
@@ -39,5 +39,6 @@ Given in django official documentation - [Documentation Link] (https://docs.djan
         1. Adding models and objects of polls app to admin site. 
         2. Modified question list look and details page.
         3. Added more slots for entering choices on site.
-        4. Added filters like search box for question object and drop-down menu for selecting questions on the basis of published date at admin site.
+        4. Added filters like search box for question object and drop-down menu for selecting questions on 
+           the basis of published date at admin site.
         
